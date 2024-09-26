@@ -1,0 +1,1 @@
+Esse é um projeto de um site de revendas Porsche, feito em HTML e CSS. O design conta com itens para compras, direcionando ao site oficial da Porsche. Feito no 1o semestre da faculdade de Análise e Des. de Sistemas
